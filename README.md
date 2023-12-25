@@ -61,7 +61,7 @@
 |----------------|-----------------|-----|
 |[](https://github.com/)||**Pandas** **Numpy**|
 |[](https://github.com/)||**Pandas** **Numpy** **Scipy** **Seaborn**|
-|[Анализ продаж в e-commerce](https://github.com/](https://github.com/ufimtsau/e-commerce_project))||**Pandas**, **Seaborn**, **Matplotlib**|
+|[Анализ продаж в e-commerce](https://github.com/](https://github.com/ufimtsau/e-commerce_project))|Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ|**Pandas**, **Seaborn**, **Matplotlib**|
 |Создание дашборда для визуализации данных о ключевых метриках продаж в интернет-магазине в [Redash](http://redash.lab.karpov.courses/public/dashboards/au46SKhjdy4DT4rZtQG9dbgovXHtQs9vZwnJSP5t?org_slug=default)|Подключение к БД, построение графиков, верстка дашборда|**SQL**, **Redash**|
 |Создание дашборда для визуализации данных о вакансиях в DS на HH.ru в [Tableau](https://public.tableau.com/app/profile/uladzimir.ufimtsau/viz/DataSienceHH_ru/ufimtsev_44_part2_HH)| Подключение к БД, построение графиков, верстка дашборда |**Tableau**|
 |Создание дашборда для визуализации данных об удовлетворенности персонала в [Tableau](https://public.tableau.com/app/profile/uladzimir.ufimtsau/viz/VizProject_17010276218770/VizProject)| Подключение к БД, построение графиков, верстка дашборда |**Tableau**|
