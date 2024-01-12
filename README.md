@@ -8,9 +8,6 @@
   <a href="https://t.me/uladzimir_ufimtsau">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="https://vk.com/id35435148">
-  <img src="https://img.shields.io/badge/VK-blue?logo=VK&logoColor=white&style=for-the-badge"/>
-  </a>
 </div>
 <div align='center'>
 <img src="https://komarev.com/ghpvc/?username=ufimtsau&style=flat-square&color=blue" alt=""/>
@@ -23,8 +20,7 @@
 
 ### :man_technologist: Обо мне:
 - Я занимаюсь аналитикой данных 📈
-- Пришел в Data Science из менеджмента 🤝
-- Свободное время провожу с женой и дочкой, смотрю европейское кино, читаю исторические книги и хожу в спортивный зал 🤸‍♂️
+- Пришел в Data Science из менеджмента, который позволяет видеть аналитические задачи с точки зрения тактики и стратегии как отдельной команды, так и компании в целом 🤝
 
 ---
 
@@ -44,17 +40,6 @@
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
 </div>
-
-### :metal: Умею:
-<ul>
-<li>Проведение А/В тестов и bootstrap, регрессионного и когортного анализа с помощью python
-<li>SQL: вложенные запросы, оконные функции, конструкции case
-<li>Написание ad-hoc запросов
-<li>Работа над проектами в системе контроля версий git
-<li>Формирование дашбордов в Tableau и MS Power BI
-<li>Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate
-<li>Автоматизация процессов через Airflow
-</ul>
 
 ### :book: Мои проекты:
 |Название проекта| Описание проекта| Стек|
